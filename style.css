@@ -27,7 +27,8 @@ body{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 .container{
-     margin-top: 200px;
+     margin-top: 160px;
+     margin-bottom: 50px;;
 }
 .contain{
     display: flex;
@@ -36,7 +37,7 @@ body{
     margin-top: 30px;
 }
 button{
-    margin-top: 40px;
+    margin-top: 20px;
     background: rgb(177, 148, 148);
     padding: 50px;
     cursor: pointer;
@@ -51,8 +52,9 @@ button:hover{
     font-weight: 800;
 }
 .item-list{
-    margin-top: 6px;
-    font-weight: 600;
+    margin-top: 15px;
+    font-weight: 800;
+    font-size: 23px;
 }
 /*
 .first-box{
